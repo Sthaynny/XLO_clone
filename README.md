@@ -42,6 +42,7 @@ XLO_clone
 
 Tecnologias ultilizadas no projeto:
 
+- [VsCode](https://code.visualstudio.com/)
 - [Flutter](https://flutter.dev/)
 - [Dart](https://pub.dev/)
 - [Github](https://github.com)
