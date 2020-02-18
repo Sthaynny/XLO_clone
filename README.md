@@ -21,7 +21,7 @@ XLO_clone
 
   <a href="https://github.com/Sthaynny/XLO_clone">
    <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/XLO_clone">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/XLO_clone" width="50px">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   </a>
