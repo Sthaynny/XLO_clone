@@ -1,6 +1,6 @@
 <h1 align="center">
 <img alt="" title="" src="https://cdn.icon-icons.com/icons2/572/PNG/512/1457055658_App_Development_icon-icons.com_54712.png" width="50px" />
-XLO_clone
+XLO clone
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
 
@@ -8,21 +8,15 @@ XLO_clone
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/XLO_clone">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/XLO_clone">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   <a href="https://github.com/Sthaynny/XLO_clone/commits/master">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/XLO_clone">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
   </a>
 
   <a href="https://github.com/Sthaynny/XLO_clone">
-   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/XLO_clone" width="50px">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   </a>
 
@@ -50,7 +44,7 @@ Tecnologias utilizadas no projeto:
 
 ## 💻 Projeto
 
-Projeto para treinamento da linguagem de programação e desenvolvimento mobile. 
+Projeto para treinamento e desenvolvimento mobile. 
 
 ## 🤔 Como contribuir
 
