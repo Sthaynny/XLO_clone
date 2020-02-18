@@ -40,7 +40,7 @@ XLO_clone
 
 ## :bookmark_tabs: Tecnologias
 
-Tecnologias ultilizadas no projeto:
+Tecnologias utilizadas no projeto:
 
 - [VsCode](https://code.visualstudio.com/)
 - [Flutter](https://flutter.dev/)
